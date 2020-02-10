@@ -1,6 +1,8 @@
 # Hackintosh-Deskmini-H310
 
 macOS Catalina 10.15.2 on Deskmini 310 + I7-8700ES+ 1820a
+
+![deskmini](https://i.loli.net/2020/02/10/oN6R1at4DrZ3sxw.png)
 =======
 
 ## Working Devices
