@@ -1,18 +1,18 @@
 # Hackintosh-Deskmini-H310
 
-macOS Catalina 10.15.2 on Deskmini 310 + I7-8700ES+ 1820a
+macOS Catalina 10.15.2 目前使用下来基本完美黑果，Tracepad正常，接力，airdrop，睡眠，dp,hdmi，adobe全家桶等一切正常，mac系统不支持vga,hdmi只支持30hz(deskmini主板限制)，本人使用的是两台4K显示器，使用一切正常。
+
+## Working Devices
+- 准系统： Deskmini 310 
+- CPU: intel I7-8700ES QN8H 
+- 显卡：Intel UHD 630（集显 DOTA2 1080p中等画质40帧的水平）
+- M.2固态：TOSHIBA RC-500 512G
+- 网卡：1820a/bcm943602cs2 选用第一个1820A的话参照黑果小兵的说明文档，第二个免驱，我使用的M.2固态可以放下bcm943602cs2网卡。（两个网卡我都试过了，使用完美）
+- 内存：XIEDE 16G DDR4 2666 * 2 
+- 散热：IS40X 一点不热，挺好用，声音也不大，正常使用基本听不到。
 
 ![deskmini](https://i.loli.net/2020/02/10/oN6R1at4DrZ3sxw.png)
 =======
-
-## Working Devices
-
-- [x] Ethernet (Intel I219V7)
-- [x] Audio (Realtek ALC233)
-- [x] WIFI/Bluetooth (1820a)
-- [x] Graphics (Intel UHD 630)
-- [x] Dual Monitors (DELL U2715H x 2)
-- [x] Shutdown/Restart
 
 ## Guide
 
